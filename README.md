@@ -66,7 +66,7 @@ Para um estudo aprofundado, leia o arquivo `advanced_glossary.md`, que detalha:
 - **Recuperação Aumentada por Geração (RAG)** – como integrar busca semântica com modelos generativos para reduzir alucinações e citar fontes  
   [blogs.nvidia.com](https://blogs.nvidia.com/).
 
-Essas seções são acompanhadas de dicas práticas para desenvolvimento autodidata, incluindo integração com ferramentas de design (Figma), frameworks (React) e orquestradores de workflows (n8n).
+Essas seções são acompanhadas de dicas práticas para integração com ferramentas de design (Figma), frameworks (React) e orquestradores de workflows (n8n).
 
 ---
 
@@ -100,11 +100,6 @@ Antes de contribuir, leia o glossário para manter consistência no vocabulário
 
 ---
 
-## 📄 Licença
-
-Este projeto é licenciado sob os termos da licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
----
 
 ## 📬 Contato
 
