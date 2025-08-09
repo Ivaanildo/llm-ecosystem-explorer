@@ -43,13 +43,14 @@ Abra `llm_diagram/index.html` no seu navegador, clique nos nós para ler descri�
 ## 📸 Exemplos Visuais
 
 **Prompting – Engenharia de Prompts**  
-![Prompting](images/prompting.png)
+<img width="1781" height="915" alt="figma_20250807_000024_961" src="https://github.com/user-attachments/assets/94a98f36-82c1-44df-9344-41a497bff3f2" />
+
 
 **Visão Geral do Ecossistema**  
-![Overview](images/overview.png)
+<img width="1752" height="904" alt="figma_20250807_000003_912" src="https://github.com/user-attachments/assets/d82d56c4-6625-42b4-950e-650b8c929ad0" />
 
 **Inferência – Parâmetros e Estratégias**  
-![Inference](images/inference.png)
+<img width="1774" height="922" alt="figma_20250807_000015_659" src="https://github.com/user-attachments/assets/0a562efd-8bd3-4639-a4ea-0a8ffcb2cb1d" />
 
 ---
 
